@@ -6,11 +6,6 @@ Mr. Simpatiko is a certified fitness trainer known for his popular TikTok conten
 
 # Instructions for Viewing the Fitness Trainer Portfolio
 You can access the live version of the portfolio at the following link: Fitness Trainer Portfolio
-Feel free to explore the project, contribute, and make it even better.
-
-Follow Mr. Simpatiko's Accounts:
-TikTok: Mr. Simpatiko on TikTok
-YouTube: Mr. Simpatiko on YouTube
-Facebook: Mr. Simpatiko on Facebook
+Feel free to explore the website using this link:
 
 This enhanced portfolio not only showcases Mr. Simpatiko’s expertise but also serves as a functional tool for managing his fitness business effectively.
